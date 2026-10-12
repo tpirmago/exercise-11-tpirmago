@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #243447;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #0078d4;
+    text-align: center;
+}
+
+.container > p {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.question {
+    background-color: white;
+    padding: 18px 24px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    border-left: 5px solid #0078d4;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.question h2 {
+    font-size: 18px;
+    margin: 0;
+}
